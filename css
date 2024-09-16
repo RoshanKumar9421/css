@@ -1,0 +1,41 @@
+div{
+  height: 1000px;
+  width: 2000px;
+  background-color: black;
+}
+a{
+  color: white;
+  transform-style: preserve-3d;
+  margin-right: 10px;
+}
+a1{
+  margin-right: 100px;
+  color: red;
+}
+
+button{
+  color: white;
+ 
+}
+p{
+  color: white
+}
+h1{
+  color: white;
+}
+
+button{
+  color: blueviolet;
+  
+}
+
+a{
+  margin-left: 500px;
+}
+h1{
+  color: red;
+}
+button{
+  margin-inline-start: 1000px;
+  margin-right: 500px;
+}
